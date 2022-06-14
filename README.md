@@ -1,0 +1,2 @@
+# Django
+Zuri Django project
